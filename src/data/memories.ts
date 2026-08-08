@@ -2,7 +2,7 @@
 import photo1 from "@/assets/images/photo-1.jpg";
 import photo2 from "@/assets/images/photo-2.jpg";
 import photo3 from "@/assets/images/photo-3.jpg";
-import photo4 from "@/assets/images/photo-4.JPG";
+import photo4 from "@/assets/images/photo-4.jpg";
 
 export type Memory = {
   src: string;
