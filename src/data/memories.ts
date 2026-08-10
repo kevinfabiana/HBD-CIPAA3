@@ -47,7 +47,7 @@ export const memories: Memory[] = [
   {
     src: photo4,
     alt: "Foto Aftershow wisuda",
-    caption: "",
+    caption: "Foto Aftershow wisuda",
     date: "Suatu siang yang sedih",
     story:
       "disini ak sedi bgt si aslinya soalnya tampilan terkahir,but untung lah setlah itu ak ngajak jalan jalan wkwkw",
