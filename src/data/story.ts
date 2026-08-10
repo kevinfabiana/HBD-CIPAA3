@@ -59,7 +59,7 @@ export const story = {
       "Happy Sweetseventeen yaaa cippp,semogaa apapun yang selaluu kamu cita citakann dan ingin kann,cepat terkabull,aminnn.Terus sehat selaluuu aminnn,dannn masalah masalah yang sedang kamu hadapii semogaa cepat diringankan dan selesaii,aminnn",
       "terima kasih uda jadii selaluu tempatt cerita akuu,ngasih advice dan lain lainn itulaa,semogaa di balass oleh Allah dengan hal baikk di umur yang baruu inii aminnn",
     ],
-    closing: "So here it is, one page at a time.",
+    closing: "yukkk lanjuttt",
   },
 
   /** The world that builds around the scrapbook */
