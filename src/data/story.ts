@@ -174,7 +174,7 @@ export const tracks: Track[] = [
     cover: cover1,
     title: "Bunga Abadi",
     artist: "chapter: us",
-    reason: "Lagu kenangan jalan-jalan pertama kita.",
+    reason: "Lagu kenangan jalan-jalan pertama kita\n(aku saranin play ini sampe akhir kamu baca web ini 😁",
     src: "/media/bunga-abadi.mp3",
   },
   {
